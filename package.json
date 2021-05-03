@@ -1,0 +1,19 @@
+{
+  "name": "image-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express-generator": "^4.16.1",
+    "memory-cache": "^0.2.0",
+    "mocha": "^8.3.2",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
